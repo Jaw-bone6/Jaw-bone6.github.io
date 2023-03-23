@@ -1,0 +1,12 @@
+body {
+    background-color: cornsilk;
+}
+
+#clickparagraph:hover {
+    cursor: pointer;
+    background-color: blueviolet;
+}
+
+#clickparagraph {
+    width: fit-content;
+}
