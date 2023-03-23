@@ -1,12 +1,27 @@
 body {
     background-color: cornsilk;
+    margin: 0px;
 }
 
-#clickparagraph:hover {
-    cursor: pointer;
-    background-color: blueviolet;
+#title {
+    font-size: 40pt;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin: auto;
+    max-width: 80%;
+    max-height: 80%;
+    color: white;
 }
 
-#clickparagraph {
+#header {
+    padding: 20px;
+    background-image: url("titlebackground.jfif");
+    margin: 0px;
+}
+
+#message {
+    margin-top: 100px;
+    margin: auto;
     width: fit-content;
+    padding: auto;
 }
